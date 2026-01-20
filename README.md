@@ -24,7 +24,7 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,php,laravel,postgres,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,php,postgres,mysql&perline=6" />
 </p>
 
 **Áreas que atuo com frequência**
