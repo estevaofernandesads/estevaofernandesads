@@ -30,7 +30,7 @@
 **Áreas que atuo com frequência**
 - **Back-end:** APIs REST, autenticação, integrações
 - **Dados:** PostgreSQL/MySQL, modelagem, consultas e otimizações
-- **Infra/DevOps:** Docker, Linux, deploy, logs e troubleshooting
+- **Infra/DevOps:** Deploy, logs e troubleshooting
 
 ---
 
